@@ -28,8 +28,8 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 - We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 The Retentions Manager has provided some information, have a look through the resource section.
 
-![Customer Retention](Task%202%20-%20Customer%20Retention/Customer%20Churn%20and%20Risk%20Analysis-1.png)
-![Customer Retention](Task%202%20-%20Customer%20Retention/Customer%20Churn%20and%20Risk%20Analysis-2.png)
+![Customer Retention](https://github.com/rsturka/PWC-Switzerland-Power-BI-in-Data-Analytics/blob/main/Task%202%20-%20Customer%20Retention/Customer%20Churn%20Exploratory%20Analysis.png)
+![Customer Retention](https://github.com/rsturka/PWC-Switzerland-Power-BI-in-Data-Analytics/blob/main/Task%202%20-%20Customer%20Retention/Customer%20Risk%20Analysis.png)
 
 ## Task 3: Diversity & Inclusion
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
