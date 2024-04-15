@@ -48,8 +48,8 @@ Here is a hint: Calculating the following **measures** could help to define prop
 - Average performance rating: men
 - Average Performance rating: women
 
-![Diversity & Inclusion](Task%203%20-%20Diversity%20&%20Inclusion/Diversity%20&%20Inclusion-1.png)
-![Diversity & Inclusion](Task%203%20-%20Diversity%20&%20Inclusion/Diversity%20&%20Inclusion-2.png)
+![Diversity & Inclusion]()
+![Diversity & Inclusion]()
 
 ## Reference
  - [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=zYi2CnpbWjhcS7sAk)
